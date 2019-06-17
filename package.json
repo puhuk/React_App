@@ -6,6 +6,8 @@
   "dependencies": {
     "@material-ui/core": "^4.1.1",
     "@material-ui/icons": "^4.2.0",
+    "firebase": "^6.2.0",
+    "firebase-tools": "^7.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.1"
@@ -16,10 +18,13 @@
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
-    "babel-loader": "^8.0.5",
-    "babel-preset-react-app": "^7.0.2",
+    "babel-loader": "^8.0.6",
+    "babel-preset-react-app": "^9.0.0",
+    "copy-webpack-plugin": "^5.0.3",
     "webpack": "^4.30.0",
-    "webpack-cli": "^3.3.0",
-    "webpack-dev-server": "^3.3.1"
-  }
+    "webpack-cli": "^3.3.4",
+    "webpack-dev-server": "^3.7.1"
+  },
+  "repository": "https://github.com/puhuk/React_App.git",
+  "author": "puhuk <wetr235@gmail.com>"
 }

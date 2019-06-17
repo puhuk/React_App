@@ -7,7 +7,7 @@ class Texts extends React.Component{
         return(
             <Card>
                 <CardContent>
-                    Texts Page
+                    Texts Page112212
                 </CardContent>
             </Card>
         );
